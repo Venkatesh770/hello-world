@@ -1,9 +1,15 @@
 
 # hello-world
-Tutorials for usage of GitHub
+//Tutorials for usage of GitHub
+#Include<cstdlib>
+  #include<iostream>
+  
+  Int main()
+  {
+  cout<<"Hello World!!!"<<endl;
+  system("cls");
+  return 0;
+  }
 
 
-Hi This is Venkatesh Kumar Moorthy. Kick started with GitHub for its usage 
-and In addition following the tutorial steps.
-=======
 
